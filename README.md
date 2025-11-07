@@ -14,7 +14,7 @@ This repository contains an IPL Score Prediction Web-App built with Python. It a
 ## Directory Structure
 
 ```
-MLG_AAT/
+IPL-Predictor/
 ├── .idea/
 ├── .gitattributes
 ├── app.py            # Main web application file
@@ -35,8 +35,8 @@ MLG_AAT/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aditya-is22/MLG_AAT.git
-   cd MLG_AAT
+   git clone https://github.com/ArihantCoDev/IPL-Predictor
+   cd IPL-Predictor
    ```
 
 2. **Install dependencies:**
@@ -92,7 +92,3 @@ This project is open-source and available under the MIT License.
 ## Disclaimer
 
 This app is for educational and demonstration purposes. The prediction is based on historical data and model assumptions; actual match results may vary.
-
-Enjoy predicting IPL scores!
-
-https://github.com/aditya-is22/MLG_AAT
